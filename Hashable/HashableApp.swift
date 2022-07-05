@@ -11,7 +11,7 @@ import SwiftUI
 struct HashableApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ConformToHasableView()
         }
     }
 }
